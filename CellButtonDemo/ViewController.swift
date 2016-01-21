@@ -65,9 +65,6 @@ class ViewController: UIViewController , UITableViewDelegate, UITableViewDataSou
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
         print("You selected cell #\(indexPath.row)!")
         
-        
-             
-        
     }
     
 
